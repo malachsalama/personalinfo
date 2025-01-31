@@ -30,7 +30,7 @@ This is a simple public API that returns the following information in JSON forma
    ```bash
    node index.js
    ```
-4. Access the API at `http://localhost:3000`.
+4. Access the API at `http://localhost:3000`
 
 ---
 
@@ -53,13 +53,8 @@ This is a simple public API that returns the following information in JSON forma
 
 ### Example Usage
 
-#### Using a Browser:
+Visit `https://personalinfo-sigma.vercel.app/`
 
-Visit `https://personalinfo-sigma.vercel.app/`.
-
-## Backlink
-
-```
-https://hng.tech/hire/nodejs-developers
-```
+## Related Links
+- [Interested in Node.js developers? Visit HNG](https://hng.tech/hire/nodejs-developers)
 
